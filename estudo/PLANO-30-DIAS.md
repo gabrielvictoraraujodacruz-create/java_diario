@@ -16,6 +16,7 @@ o que é **igual ao C** passa rápido, e o tempo fica para o que é **novo de ve
 - Se travar por mais de 10 minutos, pergunte ao Claude, por exemplo *"me dá a ponte do dia 12 em C"* ou *"deu esse erro: ..."*.
 - Perdeu um dia? **Não faça dois de uma vez.** Continue de onde parou: a numeração é do estudo, não do calendário.
 - Para comparar Java com C e Python lado a lado, use o [**PONTES-C-PYTHON-JAVA.md**](PONTES-C-PYTHON-JAVA.md).
+- Dia com 🌿 tem comando novo de Git: anote no [**caderno de Git**](../git/CADERNO-GIT.md).
 
 ## Materiais (todos gratuitos, conferidos em 28/09/2026)
 
@@ -41,7 +42,7 @@ o que é **igual ao C** passa rápido, e o tempo fica para o que é **novo de ve
   git config --list          # meu nome e e-mail já estão configurados
   git status                 # o que mudou?
   ```
-  Criar `estudo/dia-01/ANOTACOES.md` copiando o modelo e escrever o que é repositório, commit e push. Depois:
+  Abrir o [`git/CADERNO-GIT.md`](../git/CADERNO-GIT.md) e preencher a parte do Dia 01 com as minhas palavras: o que é repositório, commit e push, e o que cada comando faz. Depois:
   ```
   git add .                  # coloca as mudanças no "carrinho" (staging)
   git commit -m "dia 01: primeiro commit feito por mim"   # fecha a compra
