@@ -6,21 +6,21 @@ Minha "cola" de Git, escrita com as minhas palavras. Cada dia do plano que tem �
 
 ## Dia 01: o básico
 
-**Repositório é:**
+**Repositório é: onde guardamos os dados **
 
-**Commit é:**
+**Commit é:** Commit é quando atualizamos o repositório 
 
-**Push é:**
+**Push é:** É enviar atualizações salvas no repositório local
 
-**Os 3 lugares por onde uma mudança passa:**
+**Os 3 lugares por onde uma mudança passa:** Ele passa por modificado, preparado e depois commit
 
 | Comando | O que faz |
 |---|---|
-| `git config --list` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git push` | |
+| `git config --list` | | mostra as configuraçoes do Git (exemplo: nome, email que vao assinados no commit);
+| `git status` | |  o que mudou, o que está no carrinho e se o PC está igual ao GitHub
+| `git add .` | | coloca todas as mundaças da pasta atual no carrinho(Esta preparado)
+| `git commit -m "..."` | |  tira a foto do que está no carrinho, com a mensagem entre aspas (Ele tira foto do que esta alterando)
+| `git push` | | Manda as fotos para o Github (atualiza)
 
 ## Comandos dos próximos dias
 
