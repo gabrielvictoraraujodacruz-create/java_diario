@@ -23,7 +23,7 @@ java NomeDoArquivo.java
 | Dia | Tema | Feito |
 |---|---|---|
 | 01 | Git: o primeiro commit feito por mim | ✅ |
-| 02 | Como o Java funciona | ⬜ |
+| 02 | Como o Java funciona | ✅ |
 | 03 | Tipos primitivos | ⬜ |
 | 04 | Strings | ⬜ |
 | 05 | Operadores | ⬜ |
